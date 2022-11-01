@@ -1,9 +1,9 @@
 # Cube
 
-## Purpose
+## Purpose:
 ### This is a simple project to render a cube with vulkan
 
-## External
+## External Libraries:
 ### glfw
 ### glm
 
